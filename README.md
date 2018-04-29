@@ -1,2 +1,1 @@
-Create Project
-Doing some constructure setting work
+This is backend server for CRAZY APRIL
